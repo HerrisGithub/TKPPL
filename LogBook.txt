@@ -1,9 +1,45 @@
-
+Informasi
+========================================================================================================================================================================================
+Alamat Trello    : https://trello.com/b/cvu1dnzp/tkppl
+Alamat Github    : 
+Judul Presentasi : Aplikasi Android
 
 Nama  : Herris Suhendra
 Nim   : 131113514
 Kelas : TIC SORE
 
-Nama  :
-Nim   :
-Kelas :
+Nama  : Jimmy Chandra
+Nim   : 131113107
+Kelas : TIC SORE
+
+Nama  : Andi Chang
+Nim   : 131112951
+Kelas : TIC SORE
+========================================================================================================================================================================================
+
+Sprint
+===================================================================================================================================================================================================
+Sprint 1 :
+6/6 - 9/6
+Scrum Master : Herris Suhendra (131113514)
+
+Sprint 2 :
+10/6 - 14/6
+Scrum Master : Andi Chang (131112951)
+
+Sprint 3 :
+15/6 - 19/6
+Scrum Master : Jimmy Chandra (131113107)
+
+========================================================================================================================================================================================
+
+Progress Harian (Tolong Diupdate Ya teman Aktivitas yang dilakukan disini)
+========================================================================================================================================================================================
+
+6/6
+Daily Scrum
+
+Herris Suhendra
+1. Hari ini saya mengupdate backlog dan sprint di trello
+2. Hari ini saya Mengedit Layar Presentasi Pengenalan Aplikasi Android Sebagai referensi untuk teman - teman
+
