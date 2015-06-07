@@ -1,7 +1,7 @@
 Informasi
 ========================================================================================================================================================================================
 Alamat Trello    : https://trello.com/b/cvu1dnzp/tkppl
-Alamat Github    : 
+Alamat Github    : https://github.com/HerrisGithub/TKPPL.git
 Judul Presentasi : Aplikasi Android
 
 Nama  : Herris Suhendra
@@ -43,3 +43,6 @@ Herris Suhendra
 1. Hari ini saya mengupdate backlog dan sprint di trello
 2. Hari ini saya Mengedit Layar Presentasi Pengenalan Aplikasi Android Sebagai referensi untuk teman - teman
 
+7/6
+Herris Suhendra
+1. Hari ini saya Pull repository dari apa yang sudah dikerjakan teman -teman
