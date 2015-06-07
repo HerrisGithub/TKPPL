@@ -46,3 +46,6 @@ Herris Suhendra
 7/6
 Herris Suhendra
 1. Hari ini saya Pull repository dari apa yang sudah dikerjakan teman -teman
+
+Jimmy Chandra
+1. Hari ini saya mengerjakan beberapa sub judul lalu kemudian saya push supaya teman teman bisa pull repository
