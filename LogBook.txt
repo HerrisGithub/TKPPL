@@ -49,3 +49,6 @@ Herris Suhendra
 
 Jimmy Chandra
 1. Hari ini saya mengerjakan beberapa sub judul lalu kemudian saya push supaya teman teman bisa pull repository
+
+Andi Chang
+1. hari ini saya membuat sub judul dan push repositori
