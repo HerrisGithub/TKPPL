@@ -43,6 +43,9 @@ Herris Suhendra
 1. Hari ini saya mengupdate backlog dan sprint di trello
 2. Hari ini saya Mengedit Layar Presentasi Pengenalan Aplikasi Android Sebagai referensi untuk teman - teman
 
+Jimmy Chandra
+1. Hari ini saya mengerjakan beberapa commit file
+ 
 7/6
 Herris Suhendra
 1. Hari ini saya Pull repository dari apa yang sudah dikerjakan teman -teman
@@ -50,16 +53,18 @@ Herris Suhendra
 
 Jimmy Chandra
 1. Hari ini saya mengerjakan beberapa sub judul lalu kemudian saya push supaya teman teman bisa pull repository
+2. Mengubah dan mengupdate logbook 
 
 Andi Chang
 1. hari ini saya membuat sub judul dan push repositori
 
 8/6
+Herris Suhendra
 1. Hari ini saya pull repository dari apa yang sudah dikerjakan teman - teman 
 2. Mencari bahan presentasi yang akan diselesaikan di sprint berikutnya
 
 Jimmy Chandra
-
+1. Hari ini saya mencari beberapa jawaban sprint dan mengubah beberapa kata di LogBook
 
 Andi Chang
 
