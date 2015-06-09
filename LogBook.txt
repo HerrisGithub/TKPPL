@@ -77,5 +77,6 @@ Herris Suhendra
 1. Mencari gambar - gambar presentasi 
 2. diskusi dan menyelesaikan masalah percabangan
 
-
+Andi Chang
+1. Mengubah file yang semalam karena bercabang
 
