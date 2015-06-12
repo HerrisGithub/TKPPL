@@ -102,8 +102,17 @@ Herris Suhendra
 Andi Chang
 1. hari ini saya clone uluang tugas 
 
+<<<<<<< HEAD
 12/6
 Herris Suhendra
 1. Mengedit tampialan
 2. Menambah text presentasi
-3. 
+3. Mengedit teks presentasi 
+=======
+Jimmy Chandra
+1. Hari ini saya merge ulang karena bercabang
+1. Salah merge jadi ulang merge kembali
+
+Andi Chang
+1. cek kembali yang sudah di merge
+>>>>>>> 9368881f9dbc5adcb25d4c353267289f89eebb8a
