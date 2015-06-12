@@ -101,3 +101,10 @@ Herris Suhendra
 
 Andi Chang
 1. hari ini saya clone uluang tugas 
+
+Jimmy Chandra
+1. Hari ini saya merge ulang karena bercabang
+
+12/6
+Jimmy Chandra
+1. Salah merge jadi ulang merge kembali
