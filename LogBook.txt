@@ -108,3 +108,6 @@ Jimmy Chandra
 12/6
 Jimmy Chandra
 1. Salah merge jadi ulang merge kembali
+
+Andi Chang
+1. cek kembali yang sudah di merge
