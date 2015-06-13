@@ -116,3 +116,7 @@ Jimmy Chandra
 Andi Chang
 1. cek kembali yang sudah di merge
 >>>>>>> 9368881f9dbc5adcb25d4c353267289f89eebb8a
+
+13/6
+Herris Suhendra
+1. Hari ini saya melakukan inserting gambar

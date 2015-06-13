@@ -1,0 +1,89 @@
+{
+  "name": "bespoke-theme-greeny",
+  "version": "0.0.4",
+  "description": "Greeny theme for Bespoke.js",
+  "homepage": "https://github.com/cedced19/bespoke-theme-greeny",
+  "bugs": {
+    "url": "https://github.com/cedced19/bespoke-theme-greeny/issues"
+  },
+  "author": {
+    "name": "cedced19",
+    "url": "https://github.com/cedced19"
+  },
+  "main": "./dist/bespoke-theme-greeny.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cedced19/bespoke-theme-greeny.git"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "peerDependencies": {
+    "bespoke": ">=1.0.0"
+  },
+  "devDependencies": {
+    "bespoke": "^1.0.0",
+    "bespoke-backdrop": "^1.0.0",
+    "bespoke-bullets": "^1.0.0",
+    "bespoke-classes": "^1.0.0",
+    "bespoke-keys": "^1.0.0",
+    "bespoke-progress": "^1.0.0",
+    "bespoke-scale": "^1.0.0",
+    "bespoke-touch": "^1.0.0",
+    "brfs": "^1.1.1",
+    "browserify": "^6.0.3",
+    "function-bind": "^1.0.2",
+    "gh-pages": "^0.2.0",
+    "gulp": "^3.5.1",
+    "gulp-autoprefixer": "1.0.1",
+    "gulp-browserify": "^0.5.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-connect": "^2.0.5",
+    "gulp-csso": "^0.2.9",
+    "gulp-header": "^1.0.2",
+    "gulp-jade": "^0.9.0",
+    "gulp-plumber": "^0.6.3",
+    "gulp-rename": "^1.2.0",
+    "gulp-stylus": "^1.0.2",
+    "gulp-uglify": "^1.0.1",
+    "gulp-util": "^3.0.1",
+    "insert-css": "^0.2.0",
+    "lodash": "^2.4.1",
+    "opn": "^1.0.0",
+    "through": "^2.3.4"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://cedced19.github.io/license/"
+    }
+  ],
+  "keywords": [
+    "bespoke-plugin",
+    "bespoke-theme"
+  ],
+  "gitHead": "4d71cea8e2c55b502e26014192b2eeec8fc32101",
+  "_id": "bespoke-theme-greeny@0.0.4",
+  "_shasum": "0071aadc9eeb10c7411c6337629dbec7f6fcaed2",
+  "_from": "bespoke-theme-greeny@*",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "cedced19",
+    "email": "cedced19@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "cedced19",
+      "email": "cedced19@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "0071aadc9eeb10c7411c6337629dbec7f6fcaed2",
+    "tarball": "http://registry.npmjs.org/bespoke-theme-greeny/-/bespoke-theme-greeny-0.0.4.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/bespoke-theme-greeny/-/bespoke-theme-greeny-0.0.4.tgz"
+}
