@@ -127,3 +127,17 @@ Andi Chang
 Jimmy Chandra
 1. Mengubah beberapa Slide yang salah
 2. Memperbaharui kata kata yang kurang tepat
+
+14/6
+Jimmy Chandra
+1. Hari ini saya menjadi masterscrum 
+2. Mengupdate LogBook 
+
+Herris Suhendra
+1. Hari ini menampilkan Slide supaya ada gambar 
+2. Memgedit Slide yang kurang bagus di tampilan
+3. Mengubah Tema Slide 
+
+Andi Chang
+1. Menambah beberapa Slide 
+2. Mengatur slide dan posisinya   
