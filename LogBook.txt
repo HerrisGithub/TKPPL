@@ -141,3 +141,17 @@ Herris Suhendra
 Andi Chang
 1. Menambah beberapa Slide 
 2. Mengatur slide dan posisinya   
+
+15/6
+Jimmy Chandra
+1. Memperbaharui logbook 
+2. Memberikan jawaban sprint 
+3. Mengatur cara kerja kepada teman teman
+
+Harris Suhendra
+1. Mengedit slide yang dibagi oleh masterscrum
+2. Mengubah Font dan Style slide yang baru
+
+Andi Chang
+1. Mengclone ulang karena terjadi percabangan
+2. Mengubah beberapa slide yang bermasalah

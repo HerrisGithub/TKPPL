@@ -1,0 +1,21 @@
+Pembajakan Masih Jadi Masalah Besar Android 
+
+
+
+Android punya sebuah masalah besar yang sudah terjadi sejak lama. Yaitu mudahnya untuk menggunakan aplikasi bajakan di OS buatan Google itu. Seberapa parah masalahnya?
+
+Ustwo Games, pengembang game puzzle populer Monument Valley pun angkat bicara mengenai hal ini. Dalam kultwitnya terungkap bahwa dari semua pengguna Monument Valley di Android, hanya 5% yang benar-benar membayar.
+
+Memang, pembajakan bukan cuma masalah di Android, namun di iOS jumlahnya tak sebanyak di OS robot hijau tersebut. Pembajak Monument Valley di iOS 'hanya' sekitar 60%.
+
+Namun ini bukan berarti bahwa 95% pengguna Monument Valley di Android merupakan pembajak. Karena Ustwo pernah memberikan aplikasi tersebut secara cuma-cuma selama satu hari penuh.
+
+Ada juga data dari Gamasutra pada tahun 2012 lalu. Dalam laporan tersebut tertulis bahwa pembajakan game Shadowgun di Android mencapai 90%, sementara di game Butterscotch Shenanigans angka pembajakannya mencapai 95%. Padahal di iOS, pembajak game Butterscotch Shenanigans cuma berada di angka 5%.
+
+Banyak faktor yang membuat pembajakan aplikasi di Android dianggap menjadi hal jamak. Salah satunya adalah pengguna Android di Tiongkok yang terpaksa membajak aplikasi. Alasannya adalah karena mereka tak bisa mengakses Play Store di Negeri Tirai Bambu itu.
+
+Tingginya angka pembajakan ini tentu akan menghambat para developer untuk berkembang. Berbeda dengan di iOS, yang penggunanya sangat suka berbelanja di App Store.
+
+Data terakhir menyebutkan bahwa pada minggu pertama bulan Januari 2015, hampir USD 500 juta dihabiskan oleh para pengguna iOS di App Store --baik untuk membeli aplikasi, ataupun membeli in-app purchase.
+
+Namun sebenarnya para developer juga sudah mafhum dengan kondisi pembajakan di Android. Mungkin menurut mereka, meski bajakan setidaknya ada yang memainkan game mereka, daripada tidak ada sama sekali
