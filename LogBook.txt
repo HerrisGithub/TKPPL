@@ -148,10 +148,24 @@ Jimmy Chandra
 2. Memberikan jawaban sprint 
 3. Mengatur cara kerja kepada teman teman
 
-Harris Suhendra
+Herris Suhendra
 1. Mengedit slide yang dibagi oleh masterscrum
 2. Mengubah Font dan Style slide yang baru
 
 Andi Chang
 1. Mengclone ulang karena terjadi percabangan
 2. Mengubah beberapa slide yang bermasalah
+
+16/6
+Jimmy Chandra
+1. Memperbaharui logbook
+2. Mengecek Trello
+3. Membantu teman yang susah mendapatkan jawaban sprint
+
+Herris Suhendra
+1. Memberikan jawaban sprint tentang lisensi android
+2. Melengkapi slide
+
+Andi Chang
+1. Memcari jawaban sprint
+2. Membuat slide menjadi lebih menarik 
