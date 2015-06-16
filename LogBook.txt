@@ -165,6 +165,8 @@ Jimmy Chandra
 Herris Suhendra
 1. Memberikan jawaban sprint tentang lisensi android
 2. Melengkapi slide
+3. Memberi solusi di Trello kepada Teman teman
+4. Mencari solusi jawaban Sprint terakhir tentang perbedaan android & ios
 
 Andi Chang
 1. Memcari jawaban sprint
