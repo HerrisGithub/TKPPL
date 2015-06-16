@@ -167,6 +167,7 @@ Herris Suhendra
 2. Melengkapi slide
 3. Memberi solusi di Trello kepada Teman teman
 4. Mencari solusi jawaban Sprint terakhir tentang perbedaan android & ios
+5. Memperbaiki slide error
 
 Andi Chang
 1. Memcari jawaban sprint
