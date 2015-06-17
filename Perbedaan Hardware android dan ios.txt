@@ -1,0 +1,17 @@
+ Perbedaan antara iOS dan Android dari segi Hardware-nya.
+iOS :
+> dari segi ini, perangkat keras produksi Apple kalah dengan perangkat keras yang berbasis Android.
+Android :
+> masalah hardware pada Android, hampir menyamai hardware Netbook. Masalah kualitas hardware juga tergantung dari perusahaan.
+
+Perbedaan antara iOS dan Android dari segi Prosessor-nya.
+iOS :
+> iPhone terbaru menggunakan Prosessor Dual Core.
+Android :
+> untuk tipe Handphone terbaru sudah menggunakan Prosessor Quad Core (2 kali lipat dari Prosessor Dual Core).
+
+Perbedaan antara iOS dan Android dari segi Kapasitas Memory-nya.
+iOS :
+> pada umumnya menggunakan Memory 8 GB, 16 GB, 32 GB, 64 GB dan tidak memiliki Memory tambahan/eksternal.
+Android :
+> pada umumnya menggunakan Memory 8 GB, 16 GB, 32 GB, 64 GB dan memiliki Memory tambahan/eksternal.
