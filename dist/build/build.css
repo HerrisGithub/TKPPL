@@ -1,11 +1,19 @@
 @Import 'prism/themes/prism-coy.css';
 h1 {
   text-transform: capitalize;
-  color: #fff;
+  color: #f00;
   text-shadow: 100px;
   -webkit-text-decoration-style: solid;
   -moz-text-decoration-style: solid;
   text-decoration-style: solid;
+  font-weight: bold;
+}
+h1.nama {
+  font-size: 30px;
+}
+section {
+  background-color: #290;
+  border-radius: 10%;
 }
 h2 {
   text-transform: capitalize;
