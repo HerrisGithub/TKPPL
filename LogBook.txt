@@ -186,3 +186,9 @@ Herris Suhendra
 Andi Chang
 1. Mengatur slide yang salah
 2. Membuat beberapa kata kata yang kurang tepat
+
+18/6
+Jimmy Chandra,Herris Suhendra & Andi Chang
+1. Mengedit slide dan style font 
+2. Memperbagus desain Slide 
+3. Sprint terakhir sudah dijawab dan tinggal ubah di slide saja
