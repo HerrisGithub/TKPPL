@@ -192,3 +192,7 @@ Jimmy Chandra,Herris Suhendra & Andi Chang
 1. Mengedit slide dan style font 
 2. Memperbagus desain Slide 
 3. Sprint terakhir sudah dijawab dan tinggal ubah di slide saja
+19/6
+Jimmy Chandra,Herris Suhendra & Andi Chang
+1. Hari ini terakhir untuk commit maupun push 
+2. Hari ini juga kita mempresentasikan tugas yang kita kerjakan selama 14 hari
