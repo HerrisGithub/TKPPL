@@ -196,3 +196,6 @@ Jimmy Chandra,Herris Suhendra & Andi Chang
 Jimmy Chandra,Herris Suhendra & Andi Chang
 1. Hari ini terakhir untuk commit maupun push 
 2. Hari ini juga kita mempresentasikan tugas yang kita kerjakan selama 14 hari
+Herris Suhendra
+1. Hari ini saya mengedit kata- kata 
+2. saya mengedit sedikit stylus
